@@ -11,6 +11,8 @@ https://www.odelama.com/photo/Developing-a-RAW-Photo-by-hand/
 
 Для подготовки данных необходимо выполнить ноутбук [prepare_data.ipynb](https://github.com/altimerk/dngnn/blob/main/prepare_data.ipynb).
 
+Веса для сети - [resnet18_128_4l_03xx.pt](https://drive.google.com/file/d/1TP5Dl_-1ka2WlpP3EeUdbuhAdQ3oSm69/view?usp=sharing)
+
 #### Пример сгенерированных данных
 
 Оригинальное изображение
